@@ -16,4 +16,4 @@ Integrantes:
 | [Descripción del proyecto](./02-description)          | Descripción del objetivo del proyecto y alcance              |
 | [Trabajos en equipo](./03-assignments)                | Documentos relacionados a los trabajos en equipo             |
 | [Contrato de equipo](./04-contract)                   | Documentos relacionado al contrato del equipo                |
-| [Fases del proyecto](./05-project-phases)             | Analisis de requerimientos, diseño, implementación y prueba  |
+| [Fases del proyecto](./05-project-phases)             | Análisis de requerimientos, diseño, implementación y prueba  |

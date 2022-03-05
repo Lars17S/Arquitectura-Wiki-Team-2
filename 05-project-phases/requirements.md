@@ -1,4 +1,4 @@
-# [Project] Software Architecture
+# Requerimientos
 
 We plan to build the application using [Architecture] style. 
 
