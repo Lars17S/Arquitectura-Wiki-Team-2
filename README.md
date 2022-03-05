@@ -1,17 +1,19 @@
-# [Project] Wiki Template
+# Arquitectura Wiki
 
-This is a wiki template. I believe this is the minimum documentation each project should have.
+Wiki creado para la materia de Arquitectura. 
 
-The structure of the repository is as shown below:
+Equipo: Henry Cavill
+Integrantes:
+- Aldo Ponce de la Cruz A01651119
+- Ignacio Alvarado Reyes A01656149
+- José Antonio Berrón Gutiérrez A01377269
+- Arturo Efrén Jiménez Garibaldi A00824428
+- Manuel Herrasti GonzálesA01657028
 
 | Topic                                                 | Description                                                  |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
-| [Team](./01-team)                                     | Documents related to team structure                          |
-| [Onboarding](./02-onboarding)                         | Documents related to new developer onboarding                |
-| [Development Process](./03-development-process)       | Documents related to software development process            |
-| [Architecture](./04-architecture)                     | Documents related to software architecture                   |
-| [Design Docs](./05-design-docs)                       | Documents related to engineering design documents            |
-| [Code Review Process](./06-code-review-process)       | Documents related to code review process, definition of ready/done |
-| [Delivery Metrics](./07-delivery-metrics)             | Documents release to each Sprint delivery metrics            |
-| [Release and Deployment](./08-release-and-deployment) | Documents related to release and deployment                  |
-
+| [Misión y visión del proyecto](./01-mission-vision)   | Información sobre la misión y visión                         |
+| [Descripción del proyecto](./02-description)          | Descripción del objetivo del proyecto y alcance              |
+| [Trabajos en equipo](./03-assignments)                | Documentos relacionados a los trabajos en equipo             |
+| [Contrato de equipo](./04-contract)                   | Documentos relacionado al contrato del equipo                |
+| [Fases del proyecto](./05-project-phases)             | Analisis de requerimientos, diseño, implementación y prueba  |
