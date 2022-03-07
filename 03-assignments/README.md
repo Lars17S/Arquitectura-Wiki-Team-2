@@ -4,4 +4,4 @@ Carpeta que incluye todos los trabajos en equipo hechos durante la materia.
 
 | Documento | Descripción |
 |--|--|
-| [Ejercicio de escenarios](./01-Quality Attribute Workshop Values.pdf) | Trabajo de escenarios identificados. |
+| [Ejercicio de escenarios](./Quality%20Attribute%20Workshop%20Values.pdf) | Trabajo de escenarios identificados. |
